@@ -5,7 +5,11 @@
   "base_currency": "KRW",
   "interval": "1d",
   "as_of": "2026-11-16",
+<<<<<<< HEAD
   "generated_at": "2026-11-17T02:17:53+09:00",
+=======
+  "generated_at": "2026-11-17T02:19:28+09:00",
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
   "window_days": 100,
   "currencies": {
     "USD": {
@@ -21,7 +25,11 @@
       "ticker": "KRWUSD=X",
       "latest": {
         "date": "2026-11-16",
+<<<<<<< HEAD
         "krw_per_unit": 1335.65999
+=======
+        "krw_per_unit": 1335.170036
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
       },
       "previous": {
         "date": "2026-11-15",
@@ -326,7 +334,11 @@
         ],
         [
           "2026-11-16",
+<<<<<<< HEAD
           1335.65999
+=======
+          1335.170036
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
         ]
       ]
     },
@@ -2989,7 +3001,11 @@
       "ticker": "USDKRW=X / USDVND=X",
       "latest": {
         "date": "2026-11-16",
+<<<<<<< HEAD
         "krw_per_unit": 5.184872001
+=======
+        "krw_per_unit": 5.184522001
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
       },
       "previous": {
         "date": "2026-11-15",
@@ -3290,7 +3306,11 @@
         ],
         [
           "2026-11-16",
+<<<<<<< HEAD
           5.184872001
+=======
+          5.184522001
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
         ]
       ]
     },
@@ -5611,7 +5631,11 @@
       "ticker": "USDKRW=X / USDMXN=X",
       "latest": {
         "date": "2026-11-16",
+<<<<<<< HEAD
         "krw_per_unit": 71.92269762
+=======
+        "krw_per_unit": 71.92641618
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
       },
       "previous": {
         "date": "2026-11-15",
@@ -5912,7 +5936,11 @@
         ],
         [
           "2026-11-16",
+<<<<<<< HEAD
           71.92269762
+=======
+          71.92641618
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
         ]
       ]
     },
@@ -6247,7 +6275,11 @@
       "ticker": "USDKRW=X / USDTRY=X",
       "latest": {
         "date": "2026-11-16",
+<<<<<<< HEAD
         "krw_per_unit": 26.49956333
+=======
+        "krw_per_unit": 26.49882908
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
       },
       "previous": {
         "date": "2026-11-15",
@@ -6548,7 +6580,11 @@
         ],
         [
           "2026-11-16",
+<<<<<<< HEAD
           26.49956333
+=======
+          26.49882908
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
         ]
       ]
     },
@@ -6565,7 +6601,11 @@
       "ticker": "USDKRW=X / USDSAR=X",
       "latest": {
         "date": "2026-11-16",
+<<<<<<< HEAD
         "krw_per_unit": 355.8700495
+=======
+        "krw_per_unit": 355.8460721
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
       },
       "previous": {
         "date": "2026-11-15",
@@ -6866,7 +6906,11 @@
         ],
         [
           "2026-11-16",
+<<<<<<< HEAD
           355.8700495
+=======
+          355.8460721
+>>>>>>> 4ced1c2 (chore(data): 환율 갱신 2026-11-16 [skip ci])
         ]
       ]
     },
