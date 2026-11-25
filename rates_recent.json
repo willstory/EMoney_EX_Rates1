@@ -5,7 +5,7 @@
   "base_currency": "KRW",
   "interval": "1d",
   "as_of": "2026-11-25",
-  "generated_at": "2026-11-25T20:17:33+09:00",
+  "generated_at": "2026-11-25T21:17:33+09:00",
   "window_days": 100,
   "currencies": {
     "USD": {
@@ -5811,7 +5811,7 @@
       "ticker": "USDKRW=X / USDMXN=X",
       "latest": {
         "date": "2026-11-25",
-        "krw_per_unit": 68.36206245
+        "krw_per_unit": 68.29111157
       },
       "previous": {
         "date": "2026-11-24",
@@ -6120,7 +6120,7 @@
         ],
         [
           "2026-11-25",
-          68.36206245
+          68.29111157
         ]
       ]
     },
@@ -6463,7 +6463,7 @@
       "ticker": "USDKRW=X / USDTRY=X",
       "latest": {
         "date": "2026-11-25",
-        "krw_per_unit": 26.50393028
+        "krw_per_unit": 26.5061592
       },
       "previous": {
         "date": "2026-11-24",
@@ -6772,7 +6772,7 @@
         ],
         [
           "2026-11-25",
-          26.50393028
+          26.5061592
         ]
       ]
     },
